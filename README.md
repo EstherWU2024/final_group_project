@@ -35,8 +35,8 @@ We explore the following key questions:
 ## 🚀 How to Use
 
 ```bash
-git clone https://github.com/your_repo_here.git
-cd your_repo_here
+git clone https://github.com/EstherWU2024/final_group_project.git
+cd final_group_project
 jupyter notebook
 ```
 
@@ -44,3 +44,4 @@ Open the notebook to explore the full analysis.
 
 ## ✨ Contributors
 Group 7 — Data Visualization Project
+
